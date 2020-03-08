@@ -12,10 +12,15 @@ import java.util.Map;
 public class Person
 {
 
+    /**
+     * test
+     */
     private String lastName;
+
     private Integer age;
     private Boolean boss;
     private Date birth;
+
 
     private Map<String, Object> maps;
     private List<Object> lists;
