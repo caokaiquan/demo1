@@ -21,7 +21,7 @@ public class HelloController
     @RequestMapping("/test")
     public String hello2(Model model)
     {
-//        model.addAttribute("dd",);
+//        model.addAttribute("dd",);fdsfsd
         model.addAttribute("data", 123);
         return "success";
     }

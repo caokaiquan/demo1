@@ -1,6 +1,7 @@
 package com.example.demo2.bean;
 
 public class Dog {
+    //名称
     private String name;
     private Integer age;
 
